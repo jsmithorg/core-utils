@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <flexLibProperties version="1">
 <includeClasses>
+<classEntry path="org.jsmith.binding.Binding"/>
+<classEntry path="org.jsmith.binding.BindingFactory"/>
+<classEntry path="org.jsmith.binding.BindingMode"/>
+<classEntry path="org.jsmith.binding.IBinding"/>
+<classEntry path="org.jsmith.binding.OneWayBinding"/>
+<classEntry path="org.jsmith.binding.TwoWayBinding"/>
 <classEntry path="org.jsmith.collections.Collection"/>
 <classEntry path="org.jsmith.collections.CollectionIterator"/>
 <classEntry path="org.jsmith.collections.DictionaryCollection"/>
