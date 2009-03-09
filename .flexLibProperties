@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <flexLibProperties version="1">
 <includeClasses>
+<classEntry path="org.jsmith.collections.GenericCollection"/>
+<classEntry path="org.jsmith.reflection.ReflectedType"/>
+<classEntry path="org.jsmith.collections.DictionaryCollectionIterator"/>
+<classEntry path="org.jsmith.collections.DictionaryCollection"/>
+<classEntry path="org.jsmith.collections.IIterator"/>
+<classEntry path="org.jsmith.utils.Enum"/>
+<classEntry path="org.jsmith.collections.GenericDictionaryCollection"/>
 <classEntry path="org.jsmith.collections.Collection"/>
 <classEntry path="org.jsmith.collections.CollectionIterator"/>
-<classEntry path="org.jsmith.collections.DictionaryCollection"/>
-<classEntry path="org.jsmith.collections.DictionaryCollectionIterator"/>
-<classEntry path="org.jsmith.collections.GenericCollection"/>
-<classEntry path="org.jsmith.collections.GenericDictionaryCollection"/>
-<classEntry path="org.jsmith.collections.IIterator"/>
-<classEntry path="org.jsmith.math.Fibonacci"/>
 <classEntry path="org.jsmith.math.Geom"/>
-<classEntry path="org.jsmith.reflection.ReflectedType"/>
-<classEntry path="org.jsmith.reflection.Type"/>
-<classEntry path="org.jsmith.utils.Enum"/>
+<classEntry path="org.jsmith.math.Fibonacci"/>
 </includeClasses>
 <includeResources/>
 <namespaceManifests/>
